@@ -62,7 +62,7 @@ Frontend: React / React Native (Cross-platform mobile & web accessibility for st
 
 Backend: Node.js / Python (FastAPI for AI model integration)
 
-AI & Vision: Computer Vision APIs / Multimodal LLMs for food image recognition and nutritional estimation
+AI & Vision: ollama qwen2.5vl for analyzing the nutrients and suggesting the nutrients that are lacking in the meal
 
 Database: PostgreSQL / MongoDB for flexible user profiles and meal/activity history
 
