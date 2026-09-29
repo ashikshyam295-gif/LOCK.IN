@@ -1,4 +1,4 @@
-Adaptive Student Wellness & Fitness Engine
+Adaptive Student Wellness & Fitness Engine : checkout => https://lockin01.netlify.app/
 
 A personalized, AI-driven wellness platform designed specifically for students navigating irregular schedules, dynamic hostel/mess food menus, and sedentary academic routines.
 
